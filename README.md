@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,27&height=220&section=header&text=Phùng%20Quốc%20Việt&fontSize=42&fontAlignY=38&desc=Python%20Developer%20•%20AI%20%26%20Deep%20Agents%20•%20Automation&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,27&height=220&section=header&text=Phùng%20Quốc%20Việt&fontSize=42&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20and%20Deep%20Agents%20%7C%20Automation&descAlignY=58&descAlign=50" width="100%" />
 
   <h1>Xin chào, tôi là Phùng Quốc Việt! 👋</h1>
   <p align="center">
