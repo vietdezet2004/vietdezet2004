@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,27&height=220&section=header&text=Phùng%20Quốc%20Việt&fontSize=42&fontAlignY=38&desc=Python%20Developer%20•%20AI%20%26%20Deep%20Agents%20•%20Automation&descAlignY=58&descAlign=50" width="100%" />
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Xin+ch%C3%A0o!+I'm+Ph%C3%B9ng+Qu%E1%BB%91c+Vi%E1%BB%87t+%F0%9F%91%8B;Python+%26+Automation+Enthusiast+%E2%9A%A1;Exploring+AI%2C+Deep+Agents+%26+Computer+Vision+%F0%9F%A4%96;Turning+creative+ideas+into+real-world+code+%F0%9F%9A%80">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Xin+ch%C3%A0o!+I'm+Ph%C3%B9ng+Qu%E1%BB%91c+Vi%E1%BB%87t+%F0%9F%91%8B;Python+%26+Automation+Enthusiast+%E2%9A%A1;Exploring+AI%2C+Deep+Agents+%26+Computer+Vision+%F0%9F%A4%96;Turning+creative+ideas+into+real-world+code+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <h1>Xin chào, tôi là Phùng Quốc Việt! 👋</h1>
+  <p align="center">
+    <b>⚡ Python Developer • AI & Deep Agents • Automation Enthusiast ⚡</b>
+  </p>
 </div>
 
 <br/>
